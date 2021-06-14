@@ -1,0 +1,3 @@
+Research CSS transitions and JavaScript scroll event to shrink the header section
+
+Right now our episode section scrolls independently of the page. Change the overflow: scroll to the container to add animation to the header.
